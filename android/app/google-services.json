@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "106245273799",
+    "project_id": "myhome-49a30",
+    "storage_bucket": "myhome-49a30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106245273799:android:63c55c1275ac4228e926e2",
+        "android_client_info": {
+          "package_name": "com.beehome.beeid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106245273799-0hrb409902lsuetg2sp5h0v65fu0jcqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beehome.beeid",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "106245273799-e0dg311ihn63b9krs1t805skqp78tp32.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beehome.beeid",
+            "certificate_hash": "36995c56a3600ca67bf5f7ebbd6e9eb55569eef2"
+          }
+        },
+        {
+          "client_id": "106245273799-mg0i87sru5lbcrcu171eceia95m0q68q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beehome.beeid",
+            "certificate_hash": "b108ac6cb63d15d1c593edcfebf44821e19e69dc"
+          }
+        },
+        {
+          "client_id": "106245273799-msvvrmddkf4d33nlrmkcrrn059iambvv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beehome.beeid",
+            "certificate_hash": "05da07fb2b9c80fc83fb723b583fcba9f9de05b0"
+          }
+        },
+        {
+          "client_id": "106245273799-ddqjimmtqbk1n5p2bg5hfbia81m6qiq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeNcEAKV8WB-Ne4_04DpY1zOdGbeiBeC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106245273799-ddqjimmtqbk1n5p2bg5hfbia81m6qiq2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "106245273799-eldjupp1en2h0nr0drvjcmma7tcaeeu7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vn.beehome.beeid"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
